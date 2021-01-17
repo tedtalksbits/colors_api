@@ -1,10 +1,28 @@
 {
-   "colors": [
+   "color_data": [
       {
          "id": 0,
-         "group_name": "",
-         "created_on": "",
-         "color": "#212121"
+         "url": "",
+         "group_name": "Color Combo App",
+         "colors": [
+            "#e1100ff",
+            "#7f00ff",
+            "#e52e71",
+            "#ff8a00",
+            "#08090f"
+         ]
+      },
+      {
+         "id": 1,
+         "url": "https://dribbble.com/shots/14817879-Bill-Splitter-App",
+         "group_name": "Bill Splitter App",
+         "colors": [
+            "#49426c",
+            "#eec28d",
+            "#373258",
+            "#b79bf0",
+            "#dcd7ce"
+         ]
       }
    ]
 }
